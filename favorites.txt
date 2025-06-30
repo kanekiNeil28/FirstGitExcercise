@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 cordon bleu
 sinigang
 adobo
+=======
+50 shades of grey
+Batang Quiapo
+Cars 2
+>>>>>>> movies
